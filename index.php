@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<div class="master"> <!--kõik esimese lehe divisionid-->
+<div class="master"> <!--kÃµik esimese lehe divisionid-->
     <div id="left"><a href="link.php">Informatsiooni minust</a></div>
     <div id="center"><a href="https://soundcloud.com/maailmamustrid">Kuula minu muusikat siit</a></div>
     <div id="right"><a href="http://www.vorufolkloor.ee/performer/maailmamustrid">Informatsiooni minu muusika kohta</a></div>

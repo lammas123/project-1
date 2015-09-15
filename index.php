@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" type="text/css" href="project 1.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
     <meta charset="UTF-8">
     <title>Document</title>
 </head>

@@ -1,0 +1,47 @@
+body {
+    background-image: url("http://starrfmonline.com/kitnes/data/2015/02/21/1.2005723.jpeg");
+}
+#left {font-size: 50px; width: 300px;  position: absolute; top: 80px; left: 70px}
+#center {font-size: 50px; width: 300px; position: absolute; top: 80px; left: 940px}
+#right {font-size: 50px; width: 300px; position: absolute; top: 80px; left: 505px}
+
+#left a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+#center a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+#right a {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+#lammas {
+    img: url("http://www.muurileht.ee/media/Martin-Oja_Foto-Erakogu-e1433944523608-500x376.jpg");
+
+}
+
+#info{
+    font-size: 20px;
+    border-style: solid;
+    border-color: #3399FF;
+    margin: auto;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: #99CCFF;
+    width: 500px;
+    height: 186px;
+    position: absolute; top: 7px; left: 270px;
+    color: black;
+}
+
+img {
+    width: 250px;
+    height: 188px;
+}

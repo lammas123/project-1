@@ -19,7 +19,8 @@ body {
 }
 
 h1 {
-    text-decoration: underline;
+    text-align: center;
+
 }
 
 #lammas {
@@ -44,4 +45,60 @@ h1 {
 img {
     width: 250px;
     height: 188px;
+}
+
+hr {
+    border-color: red;
+    border-style: double;
+}
+
+#unordered {
+    position: absolute;
+    top: 400px;
+    left: 800px;
+    color: red;
+    font-size: 30px;
+}
+
+
+
+ol {
+    color: red;
+    font-size: 30px;
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+
+ul {
+
+    color: red;
+    font-size: 30px;
+    position: absolute;
+    left: 800px;
+    top: 400px;
+
+
+}
+
+ul a {
+
+    color: red;
+}
+
+ol a {
+    color: red;
+}
+
+p {
+
+line-height: 30px;
+    font-family: cursive;
+    font-weight: bold;
+
+
+}
+
+table {
+    color: red;
 }

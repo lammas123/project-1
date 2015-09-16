@@ -104,9 +104,9 @@ table {
 }
 
 a:hover {
-    color: darkred;
+    color: #FFFAF0;
     font-weight: bold;
 }
 a:visited {
-    color: darkred;
+    color: #FFFAF0;
 }

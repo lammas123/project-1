@@ -9,7 +9,7 @@
 <img src="http://www.muurileht.ee/media/Martin-Oja_Foto-Erakogu-e1433944523608-500x376.jpg"/>
 
 <div>
-    <div id="info"><p> "Tere! Olen Martin. Elan Tartu l�hedal maal. Sellest s�gisest alates �pin Tartu Kutsehariduskeskuses veebitegemist. Vahel m�ngin ka plaate DJ Daysleeperi<br> nime all"</p>
+    <div id="info"><p>Tere! Olen Martin. Elan Tartu lähedal maal. Sellest sügisest alates õpin Tartu Kutsehariduskeskuses veebitegemist. Vahel mängin ka plaate DJ Daysleeperi nime all </p>
 
     </div>
 </div>
@@ -37,13 +37,13 @@
 
 
 
-<table style="width:20%">
+<table style="width:30%">
 
     <tr>
         <td>Sugu</td>
         <td>M</td>
     </tr>
-    <tr>
+    <tr>`
         <td>Elukoht</td>
         <td>Tartu</td>
     </tr>

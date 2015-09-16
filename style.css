@@ -95,12 +95,14 @@ p {
 line-height: 30px;
     font-family: cursive;
     font-weight: bold;
-
+    min-width: auto;
+    max-width: inherit;
 
 }
 
 table {
     color: #e50000;
+
 }
 
 a:hover {

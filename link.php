@@ -45,15 +45,12 @@
     </tr>
     <tr>
         <td>Elukoht</td>
-        <td>Smith</td>
+        <td>Tartu</td>
     </tr>
-    <tr>
-        <td>Eve</td>
-        <td>Jackson</td>
-    </tr>
+
     <tr>
         <td>Facebook</td>
-        <td>Doe</td>
+        <td><a href="https://www.facebook.com/martindaysleeper.oja?fref=ts">Vajuta siia</a></td>
     </tr>
 </table>
 

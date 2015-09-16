@@ -48,7 +48,7 @@ img {
 }
 
 hr {
-    border-color: red;
+    border-color: #e50000;
     border-style: double;
 }
 
@@ -56,14 +56,14 @@ hr {
     position: absolute;
     top: 400px;
     left: 800px;
-    color: red;
+    color:  #e50000;
     font-size: 30px;
 }
 
 
 
 ol {
-    color: red;
+    color:  #e50000;
     font-size: 30px;
     position: absolute;
     left: 200px;
@@ -72,7 +72,7 @@ ol {
 
 ul {
 
-    color: red;
+    color: #e50000;
     font-size: 30px;
     position: absolute;
     left: 800px;
@@ -83,11 +83,11 @@ ul {
 
 ul a {
 
-    color: red;
+    color: #e50000;
 }
 
 ol a {
-    color: red;
+    color: #e50000;
 }
 
 p {
@@ -100,5 +100,5 @@ line-height: 30px;
 }
 
 table {
-    color: red;
+    color: #e50000;
 }

@@ -102,3 +102,11 @@ line-height: 30px;
 table {
     color: #e50000;
 }
+
+a:hover {
+    color: darkblue;
+    font-weight: bold;
+}
+a:visited {
+    color: darkblue;
+}

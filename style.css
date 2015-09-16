@@ -95,7 +95,7 @@ p {
 line-height: 30px;
     font-family: cursive;
     font-weight: bold;
-    min-width: auto;
+    min-width: 5px;
     max-width: inherit;
 
 }
